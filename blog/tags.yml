@@ -1,0 +1,14 @@
+notes:
+  label: notes
+  permalink: /notes
+  description: Notes and thoughts
+
+tech:
+  label: technology
+  permalink: /tech
+  description: Technology-related posts
+
+personal:
+  label: personal
+  permalink: /personal
+  description: Personal reflections and experiences

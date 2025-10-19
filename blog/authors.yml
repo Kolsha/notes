@@ -1,0 +1,9 @@
+kolsha:
+  name: Kolya
+  title: разноработчик
+  url: https://github.com/kolsha
+  image_url: https://github.com/kolsha.png
+  page:
+    permalink: '/kolsha'
+  socials:
+    github: kolsha
